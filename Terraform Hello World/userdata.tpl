@@ -1,3 +1,5 @@
+######### Simple bash script to configure the hello world configuration on the EC2 instance on start up.
+
 #!/bin/bash
 # Update the system
 yum update -y
